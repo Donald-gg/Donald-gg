@@ -20,6 +20,7 @@ Welcome to my github page.<br/>Check my projects, you might find something usefu
 <br/>
 <!-- skills -->
 <div align="center">Not a comprehensive list but yeah</div>
+<br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,rust,python,solidity,threejs,unity,godot" alt="known-language"/>
 </div> 
