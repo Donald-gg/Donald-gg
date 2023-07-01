@@ -6,7 +6,7 @@ Welcome to my github page.<br/>Check my projects, you might find something usefu
 
 <br/>
 
-<h2 align="center">Coding is a hobby</h2>
+<h2 align="center">Programming is a hobby not a job</h2>
 
 <br/>
 
@@ -16,7 +16,8 @@ Welcome to my github page.<br/>Check my projects, you might find something usefu
 
 <div align="center">
 <kbd>
-![Et2Z](https://github.com/Donald-gg/Donald-gg/assets/105006696/1f5820be-016d-404a-ba6d-a8b92c6a54c8)
+<!-- ![Et2Z](https://github.com/Donald-gg/Donald-gg/assets/105006696/1f5820be-016d-404a-ba6d-a8b92c6a54c8) -->
+  <img src="https://github.com/Donald-gg/Donald-gg/assets/105006696/1f5820be-016d-404a-ba6d-a8b92c6a54c8" alt="emoji" >
 </kbd>
 </div> 
 
