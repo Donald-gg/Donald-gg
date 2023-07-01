@@ -10,10 +10,6 @@ Welcome to my github page.<br/>Check my projects, you might find something usefu
 
 <br/>
 
-<div align="center">Not a comprehensive list but yeah</div>
-
-<br/>
-
 <div align="center">
 <kbd>
 <!-- ![Et2Z](https://github.com/Donald-gg/Donald-gg/assets/105006696/1f5820be-016d-404a-ba6d-a8b92c6a54c8) -->
@@ -23,7 +19,7 @@ Welcome to my github page.<br/>Check my projects, you might find something usefu
 
 <br/>
 <!-- skills -->
-
+<div align="center">Not a comprehensive list but yeah</div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,rust,python,solidity,threejs,unity,godot" alt="known-language"/>
 </div> 
